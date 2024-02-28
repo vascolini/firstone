@@ -1,3 +1,5 @@
+package cz.upce.fei.zzapr.w01.codingbat.warmup1;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
