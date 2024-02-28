@@ -1,3 +1,6 @@
+package cz.upce.fei.zzapr.w01.codingbat.warmup1;
+
+
 public class NearHundred {
     public static void main(String[] args) {
         // Test cases
